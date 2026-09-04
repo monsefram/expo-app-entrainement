@@ -19,6 +19,12 @@
   - Interactive calendar (`react-native-calendars`) with tab + stack navigation.
   - Separate service and model layers (e.g. `UserCredentials`).
 
+## Captures d'écran / Screenshots
+
+| Profil & progression | Accueil | Classement / Ranks |
+|:---:|:---:|:---:|
+| ![Profil](project_resumer/image.png) | ![Accueil](project_resumer/image-1.png) | ![Classement](project_resumer/image-2.png) |
+
 ## Stack
 
 JavaScript · React Native · Expo · React Navigation.
